@@ -39,6 +39,7 @@ export const SIZES = {
   textBase: 16,
   textLg: 18,
   textXl: 20,
+  textPre2xl: 22,
   text2xl: 24,
   text3xl: 30,
   text4xl: 36,
